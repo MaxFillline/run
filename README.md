@@ -1,5 +1,9 @@
 # RUN
 
+**Itch.io:** https://maxfillline.itch.io/run
+
+**Lexaloffle:** https://www.lexaloffle.com/bbs/?tid=152599
+
 **Run** is a game about escaping an airport while a mad man with a lit match tries to explode you after strapping a bomb to you. Survive 3 levels of dodging obstacles to win.
 
 ## Story
